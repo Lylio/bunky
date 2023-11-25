@@ -1,4 +1,4 @@
-package main.java;
+package com.lylechristine.bunky;
 
 import javax.swing.*;
 import java.awt.*;
