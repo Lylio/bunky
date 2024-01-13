@@ -1,4 +1,6 @@
-package com.lylechristine.bunky;
+package com.lylechristine.bunky.main;
+
+import com.lylechristine.bunky.main.GamePanel;
 
 import javax.swing.*;
 

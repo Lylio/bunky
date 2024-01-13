@@ -1,4 +1,4 @@
-package com.lylechristine.bunky;
+package com.lylechristine.bunky.main;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
